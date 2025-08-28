@@ -52,7 +52,7 @@ infer.py
 
 ### 训练 loss 曲线
 
-<img src="./asset/SwanLab-Chart_2025-8-28_16_02_53.png" alt="SwanLab-Chart_2025-8-28_16_02_53" style="zoom:33%;" />
+<img src="./asset/SwanLab-Chart_2025-8-28_16_02_53.png" alt="SwanLab-Chart_2025-8-28_16_02_53" style="width:50%; height:auto;" />
 
 在 coco2017 数据集上进行训练，loss 使用 clip 方式，进行 3 轮训练。可见随着训练增减 loss 有明显下降。
 
@@ -69,13 +69,13 @@ python infer.py
 
 data/eval/000000039769.jpg：
 
-<img src="./asset/000000039769.jpg" alt="000000039769" style="zoom:25%;" />
+<img src="./asset/000000039769.jpg" alt="000000039769" style="width:25%; height:auto;" />
 
-5850229113_4fe05d5265_z.jpg
+5850229113_4fe05d5265_z.jpg：
 
 
 
-<img src="./asset/5850229113_4fe05d5265_z.jpg" alt="5850229113_4fe05d5265_z" style="zoom:25%;" />
+<img src="./asset/5850229113_4fe05d5265_z.jpg" alt="5850229113_4fe05d5265_z" style="width:25%; height:auto;" />
 
 ## 致谢
 
