@@ -69,13 +69,13 @@ python infer.py
 
 data/eval/000000039769.jpg：
 
-<img src="/Users/zzh/Desktop/asset/000000039769.jpg" alt="000000039769" style="zoom:25%;" />
+<img src="./asset/000000039769.jpg" alt="000000039769" style="zoom:25%;" />
 
 5850229113_4fe05d5265_z.jpg
 
 
 
-<img src="/Users/zzh/Desktop/asset/5850229113_4fe05d5265_z.jpg" alt="5850229113_4fe05d5265_z" style="zoom:25%;" />
+<img src="./asset/5850229113_4fe05d5265_z.jpg" alt="5850229113_4fe05d5265_z" style="zoom:25%;" />
 
 ## 致谢
 
